@@ -77,3 +77,6 @@
 #   # nhap n so nguyen tu ban phim:
 # in ra day vua nhap
 # in ra trung binh cong cac so chan
+
+
+

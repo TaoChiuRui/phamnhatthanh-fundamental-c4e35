@@ -1,6 +1,6 @@
 items=["T-Shirt","Sweater"]
 while True:
-    want = input('Welcom to our shop, what do you want (C,R,U,D) ? ')
+    want = input('Welcome to our shop, what do you want (C,R,U,D) ? ')
     if want == "c" or want == "C" :
         items.append(input("Enter new item: "))
     elif want == "U" or want =="u" :

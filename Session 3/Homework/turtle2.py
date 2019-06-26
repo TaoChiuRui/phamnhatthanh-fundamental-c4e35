@@ -1,5 +1,5 @@
 from turtle import *
-
+speed(1)
 colors = ['red','blue','brown','yellow','grey']
 
 for i in range (5):
